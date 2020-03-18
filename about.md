@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: My Story
 permalink: /about/
 ---
-### About me
 
 In mid-2019, after years of studying Psychology and Cognitive Science, my passion for data analytics and machine learning carried me through 12 weeks of intense studies that were rewarded with a Diploma in Data Science and certificated from Data Science courses on Coursera and Udemy. This, id due course, transitioned my career into the Tech industry, and satisfied my passion for digging into health data and coming up with solutions to help people live in a better world.
 
